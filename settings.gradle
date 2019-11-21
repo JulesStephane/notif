@@ -1,0 +1,2 @@
+include ':app', ':notif2'
+rootProject.name='notif'
